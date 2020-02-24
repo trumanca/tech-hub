@@ -1,10 +1,6 @@
-package org.techhub;
+package org.techhub.principle.d;
 
-/**
- * Hello world!
- *
- */
-public class App {
+public class DependencyInversion {
     public static void main( String[] args ) {
         System.out.println( "Hello World!" );
     }

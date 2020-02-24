@@ -1,10 +1,6 @@
-package org.techhub;
+package org.techhub.principle.l;
 
-/**
- * Hello world!
- *
- */
-public class App {
+public class LiskovSubstitution {
     public static void main( String[] args ) {
         System.out.println( "Hello World!" );
     }
